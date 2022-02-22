@@ -1,0 +1,6 @@
+# textdomain: sfinv_home
+Set Home=
+Go Home=
+More=
+Home set !=
+Teleported to your home !=
